@@ -1,1 +1,0 @@
-beautiful html 404 page
